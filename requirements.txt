@@ -1,0 +1,9 @@
+pygame
+pymunk
+gymnasium
+stable-baselines3
+torch
+stuntcat
+"gymnasium[other]"
+ffmpeg
+imageio-ffmpeg
